@@ -1,0 +1,1 @@
+io.write("in vm\n")
